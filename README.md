@@ -2,6 +2,8 @@
 
 This assignment was my final project for CMPINF 2100 - Introduction to Data Centric Computing in my Masters of Data Science program at the University of Pittsburgh
 
+**GOAL:** Predict the likelihood of an existing Pitt Football season ticket holder to renew their tickets
+
 Using real data from the Pitt Athletics Department, I built a data model that predicted with the following results:
 
 * Accuracy: 79.4%
